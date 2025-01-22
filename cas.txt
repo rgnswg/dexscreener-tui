@@ -1,0 +1,9 @@
+#Commented lines like this one and blank lines are ignored
+#Some sample CA's
+
+#RETARDIO
+6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx
+#CULT
+0x0000000000c5dc95539589fbd24be07c6c14eca4
+#WSOL
+0xd93f7E271cB87c23AaA73edC008A79646d1F9912
